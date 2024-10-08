@@ -57,7 +57,7 @@ function buildCharts(sample) {
     // Render the Bubble Chart
     let bubbleLayout = {
       title: 'Bacteria Cultures per Sample',
-      margin: { t: 30, 1: 150},
+      margin: { t: 31, 1: 150},
       showlegend: false,
       hovermode: 'closest',
       xaxis: { title: 'OTU ID' },
